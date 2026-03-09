@@ -6,6 +6,8 @@ A fully functional web-based music player inspired by Spotify's sleek interface 
 
 ---
 
+Deployment Link: https://spotify-playlist-clone-iota.vercel.app/
+
 ## 📖 Overview
 
 The **Spotify Playlist Clone** is a front-end web application that demonstrates modern web development techniques to create an interactive music player. Built entirely with vanilla HTML, CSS, and JavaScript, this project showcases the ability to design and implement a professional-grade user interface without relying on frameworks or libraries.
