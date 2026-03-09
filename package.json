@@ -1,0 +1,25 @@
+{
+  "name": "spotify-playlist-clone",
+  "version": "1.0.0",
+  "description": "A Spotify-inspired web music player featuring the Aashiqui 2 album with custom UI and audio controls",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080 -o",
+    "dev": "npx live-server --port=8080 --open=index.html"
+  },
+  "keywords": [
+    "spotify",
+    "music-player",
+    "web-player",
+    "html",
+    "css",
+    "javascript",
+    "audio"
+  ],
+  "author": "lovemishra28",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lovemishra28/Spotify-Playlist-Clone.git"
+  }
+}
